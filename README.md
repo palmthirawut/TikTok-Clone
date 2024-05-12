@@ -6,6 +6,7 @@ A Tiktok App- Works on Android & iOS!
 1. Authentication with Email & Password
 2. Uploading Videos with Caption
 3. Compressing Videos
+4. Generating Thumbnails Out of Video
 
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
