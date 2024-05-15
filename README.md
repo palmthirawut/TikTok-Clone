@@ -9,6 +9,7 @@ A Tiktok App- Works on Android & iOS!
 4. Generating Thumbnails Out of Video
 5. Displaying Videos with Caption
 6. Liking on Posts
+7. Commenting on Posts
 
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
