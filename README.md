@@ -10,6 +10,7 @@ A Tiktok App- Works on Android & iOS!
 5. Displaying Videos with Caption
 6. Liking on Posts
 7. Commenting on Posts
+8. Liking the Comments
 
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
