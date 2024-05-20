@@ -49,7 +49,7 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
         ],
       ),
-      body: Container(),
+      body: pages[pageIdx],
     );
   }
 }
