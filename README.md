@@ -11,6 +11,7 @@ A Tiktok App- Works on Android & iOS!
 6. Liking on Posts
 7. Commenting on Posts
 8. Liking the Comments
+9. Searching Users
 
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
