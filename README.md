@@ -1,6 +1,8 @@
 # TikTok Clone
 
-A Tiktok App- Works on Android & iOS!
+A Tiktok App Works on Android & iOS!
+
+![My Image](assets/tiktiok_clone.png)
 
 ## Features
 1. Authentication with Email & Password
@@ -12,6 +14,9 @@ A Tiktok App- Works on Android & iOS!
 7. Commenting on Posts
 8. Liking the Comments
 9. Searching Users
+10. Following Users
+11. Displaying Followers, Following, Likes & Posts of User
+12. TikTok Like UI
 
 ## Tech Used
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
